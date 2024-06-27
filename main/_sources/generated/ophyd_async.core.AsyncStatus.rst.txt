@@ -24,7 +24,6 @@ ophyd\_async.core.AsyncStatus
    
       ~AsyncStatus.add_callback
       ~AsyncStatus.exception
-      ~AsyncStatus.watch
       ~AsyncStatus.wrap
    
    
